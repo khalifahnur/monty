@@ -1,4 +1,4 @@
-#include "monty_props.h"
+#include "monty.h"
 /**
   *f_nop- nothing is returned
   *@head: stack head

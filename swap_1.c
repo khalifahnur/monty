@@ -1,4 +1,4 @@
-#include "monty_props.h"
+#include "monty.h"
 /**
  * func_swap - Adds the top two elements of the stack.
  * @counter: counter

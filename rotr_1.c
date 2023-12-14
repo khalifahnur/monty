@@ -1,4 +1,4 @@
-#include "monty_props.h"
+#include "monty.h"
 /**
   *func_rotr- rotates the stack to the bottom
   *@head: stack head

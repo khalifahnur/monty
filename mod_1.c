@@ -1,4 +1,4 @@
-#include "monty_props.h"
+#include "monty.h"
 /**
  * func_mod - computes division of the second top element of the stack by the top element of the stack
  * @head: stack head

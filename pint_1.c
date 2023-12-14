@@ -1,4 +1,4 @@
-#include "monty_props.h"
+#include "monty.h"
 /**
  * func_pint - prints the top
  * @counter: line number

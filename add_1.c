@@ -1,4 +1,4 @@
-#include "monty_props.h"
+#include "monty.h"
 /**
  * func_add - adds the top two elements of the stack.
  * @head: stack head

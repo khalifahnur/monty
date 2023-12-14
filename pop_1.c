@@ -1,4 +1,4 @@
-#include "monty_props.h"
+#include "monty.h"
 /**
  * func_pop - removes the top element of the stack
  * @counter: counter
