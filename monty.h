@@ -42,7 +42,7 @@ int execute(char *content, stack_t **head, unsigned int counter, FILE *file);
 void free_stack(stack_t *head);
 void func_nop(stack_t **head, unsigned int counter);
 void func_mod(stack_t **head, unsigned int counter);
-void func_rotr(stack_t **head, __attribute__((unused)) unsigned int counter);
+void f_rotr(stack_t **head, __attribute__((unused)) unsigned int counter);
 void addnode(stack_t **head, int n);
 void addqueue(stack_t **head, int n);
 void f_push(stack_t **head, unsigned int number);
